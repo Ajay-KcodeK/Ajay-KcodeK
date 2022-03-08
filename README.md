@@ -70,7 +70,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/AjayKum74632170"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "hthttps://www.instagram.com/kumar_ajay_kushwaha/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </a>
