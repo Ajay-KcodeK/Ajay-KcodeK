@@ -24,11 +24,11 @@
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://spring.io/" target="_blank"> <img src="https://spring.io/images/OG-Spring.png"  width="40" height="40"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png"/> </a>
-    <a href="https://hibernate.org/" target="_blank"> <img src="https://www.javatpoint.com/images/hibernate/hibernate2.png"/> </a>
-        <a href="https://www.sencha.com/products/extjs/" target="_blank"> <img src="https://froala.com/wp-content/uploads/2019/11/post48.png"/> </a>
-            <a href="https://docs.oracle.com/cd/E23943_01/web.1111/e13712/basics.htm#WBAPP117" target="_blank"> <img src="https://s1.o7planning.com/en/10285/images/812151.png"/> </a>
-    <a href="https://maven.apache.org/" target="_blank"> <img src="https://images.app.goo.gl/mTTS2DjCN3wUBeVJ8"/> </a>     
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" width="40" height="40"/> </a>
+    <a href="https://hibernate.org/" target="_blank"> <img src="https://www.javatpoint.com/images/hibernate/hibernate2.png" width="40" height="40"/> </a>
+        <a href="https://www.sencha.com/products/extjs/" target="_blank"> <img src="https://froala.com/wp-content/uploads/2019/11/post48.png" width="40" height="40"/> </a>
+            <a href="https://docs.oracle.com/cd/E23943_01/web.1111/e13712/basics.htm#WBAPP117" target="_blank"> <img src="https://s1.o7planning.com/en/10285/images/812151.png" width="40" height="40"/> </a>
+    <a href="https://maven.apache.org/" target="_blank"> <img src="[https://images.app.goo.gl/mTTS2DjCN3wUBeVJ8](https://miro.medium.com/max/750/1*xsrKVt69q3JsZzLD-ldekQ.jpeg)"  width="40" height="40"/> </a>     
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
