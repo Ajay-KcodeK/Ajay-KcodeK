@@ -19,6 +19,12 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
+## 🚀 Common Computer Subject:
+- **Data Structures And Algorithms**
+- **Database Management System**
+- **Computer Networks**
+- **Operating System**
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
