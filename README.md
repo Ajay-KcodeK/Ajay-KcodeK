@@ -22,7 +22,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> </a>
     <a href="https://spring.io/" target="_blank"> <img src="https://spring.io/images/OG-Spring.png"  width="40" height="40"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" width="40" height="40"/> </a>
     <a href="https://hibernate.org/" target="_blank"> <img src="https://www.javatpoint.com/images/hibernate/hibernate2.png" width="40" height="40"/> </a>
