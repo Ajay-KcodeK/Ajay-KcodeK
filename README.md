@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working To Build Blockchain Project 
+- 🔭 I’m currently working As A Full Stack Developer 
 <!-- - **[CompareHere Project](https://covid-19-tracker-e4bda.web.app/)** -->
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
